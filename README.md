@@ -85,9 +85,10 @@ Asthma has the longest stay at 15.68 days and Diabetes the shortest at 15.43. Th
 
 **Page 2: Cost & Care**: average bill by condition, average stay by condition, and a medication-by-condition matrix.
 
-*<img width="956" height="582" alt="Screenshot_20261024_112844" src="https://github.com/user-attachments/assets/46fe9861-bea2-4a79-8fbd-028717039d06" />
-<img width="965" height="585" alt="Screenshot_20261024_112902" src="https://github.com/user-attachments/assets/e551d572-84c7-4961-af89-5f795bb37a1a" />
-*
+<img width="965" height="585" alt="Screenshot_20261024_112844" src="https://github.com/user-attachments/assets/fb54921d-8cad-4dad-8419-fe73a3f79397" />
+<img width="956" height="582" alt="Screenshot_20261024_112902" src="https://github.com/user-attachments/assets/3dd9680c-b941-4051-b613-6e8cff0052c9" />
+
+
 
 ## 4. Key takeaways and recommendations
 
